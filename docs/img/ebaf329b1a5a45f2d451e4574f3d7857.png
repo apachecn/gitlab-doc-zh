@@ -1,0 +1,265 @@
+<!doctype html><html lang=en>
+<head>
+<meta charset=utf-8>
+<title>Page Not Found | GitLab Documentation</title>
+<meta name=description content="Documentation for GitLab Community Edition, GitLab Enterprise Edition, Omnibus GitLab, and GitLab Runner.">
+<meta name=viewport content="width=device-width,initial-scale=1,user-scalable=no">
+<meta name=docsearch:language content=en>
+<meta name=docsearch:version content=master>
+<link rel=stylesheet href=https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css integrity=sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T crossorigin=anonymous>
+<link rel=stylesheet href=/assets/stylesheets/stylesheet-v77.css>
+<link rel=stylesheet href=/assets/stylesheets/highlight-v7.css>
+<link rel=stylesheet href=/assets/stylesheets/footer-v9.css>
+<link rel=stylesheet href=/assets/stylesheets/toc-v17.css>
+<link rel=stylesheet href=/assets/stylesheets/help-v2.css>
+<link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css>
+<link rel=stylesheet href=https://cdn.jsdelivr.net/npm/docsearch.js@2/dist/cdn/docsearch.min.css>
+<script id=Cookiebot src=https://consent.cookiebot.com/uc.js data-cbid=36a06ac5-ddb4-4f91-8337-067ad19ad8d5></script>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-WZCXKT5');</script>
+<meta name=google-site-verification content=6eFQOFLxYAer08ROqc3I-SAi44F9NmvH7PrUUBR3oCI>
+<script async src=/assets/javascripts/classlist-polyfill-v1.js></script>
+<script async src=/assets/javascripts/closest-polyfill-v.js></script>
+<meta name=generator content="Nanoc 4.11.18">
+<link href=/opensearch.xml rel=search title="Search through GitLab Docs" type=application/opensearchdescription+xml>
+<link rel=apple-touch-icon sizes=180x180 href=/assets/images/apple-touch-icon.png>
+<link rel=manifest href=/assets/manifests/site.webmanifest>
+<meta name=msapplication-config content=/assets/manifests/browserconfig.xml>
+<meta name=msapplication-TileColor content=#FC6D26>
+<meta name=theme-color content=#FC6D26>
+<meta name=robots content=noindex>
+<link rel=canonical href=https://docs.gitlab.com/404.html>
+<link rel=stylesheet href=/assets/stylesheets/404-v3.css>
+</head>
+<body>
+<div class=header>
+<div class="flex-container align-center">
+<a class="header-link logo-container flex-container justify-center align-center" href=/>
+<img src=/assets/images/gitlab-logo.svg class=logo>
+<p><span class=header-company-name>GitLab </span><strong>Docs</strong></p>
+</a>
+<div class=version-dropdown-desktop>
+<div class=choose-version>
+Version
+</div>
+<div class=dropdown>
+<a role=button class="btn btn-versions dropdown-toggle" data-toggle=dropdown aria-haspopup=true aria-expanded=false id=versions href=#>
+GitLab.com
+<span class=caret></span>
+</a>
+<ul class="dropdown-menu versions-menu" aria-labelledby=versions>
+<li>
+<a class=active href=/404.html class=versions-tooltip>GitLab.com
+<i class="fa fa-question-circle-o" aria-hidden=true data-toggle=tooltip data-placement=bottom title="Latest pre-release version of GitLab (master), with features available or about to become available on GitLab.com. For self-managed GitLab installations, select your version number as listed at your GitLab instance's /help URL."></i>
+</a>
+<li class=dropdown-divider>
+<li>
+<a href=/13.1/404.html>
+13.1
+</a>
+<li>
+<a href=/13.0/404.html>
+13.0
+</a>
+<li>
+<a href=/12.10/404.html>
+12.10
+</a>
+<li>
+<a href=/12.9/404.html>
+12.9
+</a>
+<li class=dropdown-divider>
+<li><a href=/archives/>Archives</a>
+</ul>
+</div>
+</div>
+</div>
+<div class=nav-container>
+<a class=nav-toggle id=docs-nav-toggle>
+<i class="fa fa-bars" aria-hidden=true></i>
+</a>
+<ul class=nav>
+<div class=version-dropdown-mobile>
+<div class=choose-version>
+Version
+</div>
+<div class=dropdown>
+<a role=button class="btn btn-versions dropdown-toggle" data-toggle=dropdown aria-haspopup=true aria-expanded=false id=versions href=#>
+GitLab.com
+<span class=caret></span>
+</a>
+<ul class="dropdown-menu versions-menu" aria-labelledby=versions>
+<li>
+<a class=active href=/404.html class=versions-tooltip>GitLab.com
+<i class="fa fa-question-circle-o" aria-hidden=true data-toggle=tooltip data-placement=bottom title="Latest pre-release version of GitLab (master), with features available or about to become available on GitLab.com. For self-managed GitLab installations, select your version number as listed at your GitLab instance's /help URL."></i>
+</a>
+<li class=dropdown-divider>
+<li>
+<a href=/13.1/404.html>
+13.1
+</a>
+<li>
+<a href=/13.0/404.html>
+13.0
+</a>
+<li>
+<a href=/12.10/404.html>
+12.10
+</a>
+<li>
+<a href=/12.9/404.html>
+12.9
+</a>
+<li class=dropdown-divider>
+<li><a href=/archives/>Archives</a>
+</ul>
+</div>
+</div>
+<li class=nav-item>
+<a href=/ee/README.html>
+GitLab
+</a>
+<li class=nav-item>
+<a href=/omnibus/README.html>
+Omnibus
+</a>
+<li class=nav-item>
+<a href=/runner/>
+Runner
+</a>
+<li class=nav-item>
+<a href=/charts/>
+Charts
+</a>
+</ul>
+</div>
+</div>
+<div class="wrapper d-flex justify-center">
+<div class="main class">
+<div class=four-oh-four>
+<div class=center>
+<img src=/assets/images/error-404.svg alt=404>
+<div id=js-error-message></div>
+<br>
+<div id=pagesearchbar>
+<form id=search-form action=/search/>
+<div class="input-container input-group justify-content-center">
+<span class="input-group-prepend search-icon">
+<i class="input-group-text fa fa-search" aria-hidden=true></i>
+</span>
+<input id=search-input name=q class="docsearch form-control" placeholder="Type to search" required>
+<span class=input-group-btn>
+<button class="btn btn-primary">All results</button>
+</span>
+</div>
+</form>
+</div>
+<div class="back-button center">
+<a href=javascript:history.back() class="btn btn-warning">
+<i class="fa fa-arrow-left" aria-hidden=true></i> Go back</a>
+</div>
+<br>
+</div>
+</div>
+<div data-archives-path=/archives/ data-environment=production data-offline-versions=12.8,12.7,12.6,12.5,12.4,12.3,12.2,12.1,12.0,11.11,11.10,11.9,11.8,11.7,11.6,11.5,11.4,11.3,11.2,11.1,11.0,10.8,10.7,10.6,10.5,10.4,10.3 id=offline-versions></div>
+<footer class="pl-4 pr-3 border-top footer">
+<div class="row py-2">
+<div class=col-9>
+<a href=https://gitlab.com/gitlab-org/gitlab-docs/blob/master/content/404.html><span class=text-decoration-underline>Edit this page</span></a>
+<a href=https://gitlab.com/-/ide/project/gitlab-org/gitlab-docs/edit/master/-/content/404.html>(<span class=text-decoration-underline>Web IDE</span>)</a>
+</div>
+<div class="col-3 p-0 m-0">
+<div class="d-none d-md-flex justify-content-end">
+<ul class="list-unstyled list-inline my-0 d-flex flex-wrap social-icons">
+<li>
+<a href=https://twitter.com/gitlab target=_blank class="pr-3 text-decoration-none gitlab-social"><i class="fa fa-twitter"></i> <span class=sr-only>Twitter</span></a>
+<li>
+<a href=https://www.facebook.com/gitlab target=_blank class="pr-3 text-decoration-none gitlab-social"><i class="fa fa-facebook-square"></i> <span class=sr-only>Facebook</span> </a>
+<li>
+<a href=https://www.youtube.com/channel/UCnMGQ8QHMAnVIsI3xJrihhg target=_blank class="pr-3 text-decoration-none gitlab-social"><i class="fa fa-youtube-play"></i> <span class=sr-only>YouTube</span> </a>
+<li>
+<a href=https://www.linkedin.com/company/gitlab-com target=_blank class="text-decoration-none gitlab-social"><i class="fa fa-linkedin-square"></i> <span class=sr-only>LinkedIn</span> </a>
+</ul>
+</div>
+</div>
+</div>
+<div class="row py-2">
+<div class="col-12 py-3">
+<img src=/assets/images/gitlab-logo.svg class=m-0 width=24 height=24>
+</div>
+<div class="col-12 py-1">
+<ul class="list-unstyled list-inline my-0 d-flex flex-wrap">
+<li>
+<a href=/ee/README.html target=_blank class="text-dark font-weight-bold text-decoration-none  pr-2">GitLab</a>
+<li>
+<a href=/omnibus/README.html target=_blank class="text-dark font-weight-bold text-decoration-none  px-2">Omnibus</a>
+<li>
+<a href=/runner/ target=_blank class="text-dark font-weight-bold text-decoration-none  px-2">Runner</a>
+<li>
+<a href=/charts/ target=_blank class="text-dark font-weight-bold text-decoration-none  px-2">Charts</a>
+</ul>
+</div>
+<div class="col-12 py-1">
+<ul class="list-unstyled list-inline my-0 d-flex flex-wrap">
+<li>
+<a href=https://gitlab.com/gitlab-org/gitlab-docs alt="Docs Repo" class="pr-2 text-decoration-none">Docs Repo</a>
+<li>
+<a href=https://about.gitlab.com/company/ alt="About GitLab" class="px-2 text-decoration-none">About GitLab</a>
+<li>
+<a href=https://about.gitlab.com/terms/ alt=Terms class="px-2 text-decoration-none">Terms</a>
+<li>
+<a href=https://about.gitlab.com/privacy/ alt="Privacy Policy" class="px-2 text-decoration-none">Privacy Policy</a>
+<li>
+<a href=/cookies-policy/ alt="Cookies Policy" class="px-sm-2 text-decoration-none">Cookies Policy</a>
+<li>
+<a href=https://about.gitlab.com/company/contact/ alt="Contact Us" class="px-2 text-decoration-none">Contact</a>
+</ul>
+</div>
+</div>
+<div class="row py-2">
+<div class="col d-block">
+<div class="d-block d-sm-inline-flex">
+<i class="fa fa-creative-commons fa-lg pr-1" aria-hidden=true></i>
+<i class="fa fa-user-circle-o fa-lg pr-1" aria-hidden=true></i>
+<i class="fa fa-copyright fa-lg pr-1" aria-hidden=true></i>
+</div>
+<div class="d-block d-sm-inline-flex">
+<p class=text-muted> Created with <a href=https://nanoc.ws/ target=_blank><span class=text-decoration-underline>Nanoc</span></a>, hosted on <a href=https://about.gitlab.com/stages-devops-lifecycle/pages/ target=_blank><span class=text-decoration-underline>GitLab Pages</span></a>
+</div>
+</div>
+</div>
+<div class="row py-2 d-block d-md-none">
+<div class=col>
+<ul class="list-unstyled list-inline my-0 d-flex flex-wrap">
+<li>
+<a href=https://twitter.com/gitlab target=_blank class="pr-3 text-decoration-none gitlab-social"><i class="fa fa-twitter"></i> <span class=sr-only>Twitter</span></a>
+<li>
+<a href=https://www.facebook.com/gitlab target=_blank class="pr-3 text-decoration-none gitlab-social"><i class="fa fa-facebook-square"></i> <span class=sr-only>Facebook</span> </a>
+<li>
+<a href=https://www.youtube.com/channel/UCnMGQ8QHMAnVIsI3xJrihhg target=_blank class="pr-3 text-decoration-none gitlab-social"><i class="fa fa-youtube-play"></i> <span class=sr-only>YouTube</span> </a>
+<li>
+<a href=https://www.linkedin.com/company/gitlab-com target=_blank class="text-decoration-none gitlab-social"><i class="fa fa-linkedin-square"></i> <span class=sr-only>LinkedIn</span> </a>
+</ul>
+</div>
+</div>
+</footer>
+</div>
+</div>
+<script src=https://cdn.jsdelivr.net/npm/docsearch.js@2/dist/cdn/docsearch.min.js></script>
+<script>var search=docsearch({apiKey:'ce1690e1421303458a1fcbea0cc4a927',indexName:'gitlab',inputSelector:'.docsearch',algoliaOptions:{'filters':"tags:gitlab<score=4> OR tags:omnibus<score=3> OR tags:runner<score=2> OR tags:charts<score=1>",'hitsPerPage':10},debug:false,autocompleteOptions:{'autoselect':false}});</script>
+<script src=/assets/javascripts/404-v1.js></script>
+<script src=/frontend/404/404.js></script>
+<script>!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,'script','//connect.facebook.net/en_US/fbevents.js');fbq('init','1689559637958103');fbq('track',"PageView");</script>
+<noscript><img height=1 width=1 style=display:none src="https://www.facebook.com/tr?id=1689559637958103&ev=PageView&noscript=1"></noscript>
+<script>(function(){var didInit=false;function initMunchkin(){if(didInit===false){didInit=true;Munchkin.init('194-VVC-221');}}
+var s=document.createElement('script');s.type='text/javascript';s.async=true;s.src='https://munchkin.marketo.net/munchkin.js';s.onreadystatechange=function(){if(this.readyState=='complete'||this.readyState=='loaded'){initMunchkin();}};s.onload=initMunchkin;document.getElementsByTagName('head')[0].appendChild(s);})();</script>
+<script src=https://cdn.bizible.com/scripts/bizible.js async></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-923339191"></script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}
+gtag('js',new Date());gtag('config','AW-923339191');</script>
+<script>_linkedin_partner_id="30694";window._linkedin_data_partner_ids=window._linkedin_data_partner_ids||[];window._linkedin_data_partner_ids.push(_linkedin_partner_id);</script><script>(function(){var s=document.getElementsByTagName("script")[0];var b=document.createElement("script");b.type="text/javascript";b.async=true;b.src="https://snap.licdn.com/li.lms-analytics/insight.min.js";s.parentNode.insertBefore(b,s);})();</script>
+<noscript>
+<img height=1 width=1 style=display:none alt src="https://dc.ads.linkedin.com/collect/?pid=30694&fmt=gif">
+</noscript>
+</body>
+</html>

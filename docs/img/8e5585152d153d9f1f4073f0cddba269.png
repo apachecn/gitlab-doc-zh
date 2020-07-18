@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="154" height="20">
+  <linearGradient id="b" x2="0" y2="100%">
+    <stop offset="0" stop-color="#bbb" stop-opacity=".1"/>
+    <stop offset="1" stop-opacity=".1"/>
+  </linearGradient>
+
+  <mask id="a">
+    <rect width="154" height="20" rx="3" fill="#fff"/>
+  </mask>
+
+  <g mask="url(#a)">
+    <path fill="#555"
+          d="M0 0 h100 v20 H0 z"/>
+    <path fill="#e05d44"
+          d="M100 0 h54 v20 H100 z"/>
+    <path fill="url(#b)"
+          d="M0 0 h154 v20 H0 z"/>
+  </g>
+
+  <g fill="#fff" text-anchor="middle">
+    <g font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="11">
+      <text x="50" y="15" fill="#010101" fill-opacity=".3">
+        Frontend Coverage
+      </text>
+      <text x="50" y="14">
+        Frontend Coverage
+      </text>
+      <text x="127" y="15" fill="#010101" fill-opacity=".3">
+        39.78%
+      </text>
+      <text x="127" y="14">
+        39.78%
+      </text>
+    </g>
+  </g>
+</svg>
