@@ -4,7 +4,7 @@
 > 
 > 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 > 
-> 欢迎任何人参与和完善：一个人可以走的很快，但是一群人却可以走的更远。
+> 有两种软件设计的方式：一种是使它足够简单以致于明显没有缺陷，另一种则是使它足够复杂以致于没有明显的缺陷。——C.A.R. Hoare
 
 * [在线阅读](https://gitlab.apachecn.org)
 * [在线阅读（Gitee）](https://apachecn.gitee.io/gitlab-doc-zh/)
